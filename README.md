@@ -6,6 +6,8 @@ The Smart Pill Box is an IoT-enabled embedded system designed to improve medicat
 The system is particularly beneficial for elderly individuals and patients with chronic conditions, reducing missed doses and enabling better health monitoring.
 
 ---
+<img width="1280" height="960" alt="pill boxtop view" src="https://github.com/user-attachments/assets/09925c06-2b9a-4e8a-9526-d3940983905e" />
+
 
 ##  Key Features
 - Multi-slot medication scheduling via mobile application  
