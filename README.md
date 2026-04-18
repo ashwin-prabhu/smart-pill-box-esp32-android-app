@@ -8,6 +8,9 @@ The system is particularly beneficial for elderly individuals and patients with 
 ---
 <img width="600" height="450" alt="pill boxtop view" src="https://github.com/user-attachments/assets/09925c06-2b9a-4e8a-9526-d3940983905e" />
 
+<img width="300" height="470" alt="app ui main screen" src="https://github.com/user-attachments/assets/e1418992-0fea-49a9-8e2d-a3615d0130a6" />
+
+
 
 ##  Key Features
 - Multi-slot medication scheduling via mobile application  
