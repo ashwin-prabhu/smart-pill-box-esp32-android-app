@@ -1,4 +1,4 @@
-# 🩺 Smart Pill Box – IoT-Based Medication Adherence System
+# 🩺 Smart Pill Box – IoT-Based Medication Adherence System (Patented Project)
 
 ## Overview
 The Smart Pill Box is an IoT-enabled embedded system designed to improve medication adherence through automated reminders and real-time intake tracking. It integrates a microcontroller-based hardware unit with an Android mobile application to ensure users follow prescribed medication schedules accurately.
