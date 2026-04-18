@@ -26,7 +26,7 @@ The system is particularly beneficial for elderly individuals and patients with 
 ##  System Architecture
 
 ### Hardware Components
-- **Microcontroller:** Arduino  
+- **Microcontroller:** ESP32  
 - **Communication Module:** Bluetooth (HC-05 or equivalent)  
 - **Sensors:** Limit switches (for detecting pill retrieval)  
 - **Output Devices:** LEDs and buzzer  
